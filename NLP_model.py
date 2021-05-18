@@ -36,7 +36,7 @@ from sklearn.metrics import accuracy_score,classification_report,confusion_matri
 # In[7]:
 
 
-file='E:/Placement/Projects/Python projects/Data Science Web App/spam.csv'
+file='spam.csv'
 #check encoding to avoid encoding error while reading file with pandas
 #import chardet
 #with open(file, 'rb') as rawdata:
